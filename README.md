@@ -9,13 +9,16 @@ A IA foi treinada com logs legítimos e maliciosos, documentações técnicas (M
 🔗 Acesse o notebook do modelo (NotebookLM):
 https://notebooklm.google.com/notebook/8683b8cb-b335-4caa-8f0d-a5656dd27785?pli=1
 <br>
+
 💡 Como o NotebookLM funciona
 O NotebookLM permite criar modelos personalizados a partir de fontes de conhecimento selecionadas pelo usuário (PDFs, artigos, documentos, vídeos, arquivos Markdown, etc.).
 O modelo gera respostas baseadas exclusivamente nas fontes fornecidas, o que reduz alucinações e aumenta a precisão em domínios específicos — como análise de logs Sysmon e detecções PowerShell.
 <br>
+
 🧠 Como o modelo foi treinado
 A IA foi construída com base em diversas fontes especializadas:
 <br>
+
 📌 Logs legítimos e maliciosos
 📌 Documentações (MITRE ATT&CK, Sysmon Official Docs)
 📌 Templates reais usados em operações SOC
