@@ -56,8 +56,8 @@ Markdown (formato padrão de envio de logs e retorno de reportes)
 📎 Links Úteis
 
 🔗 NotebookLM (modelo):
-https://notebooklm.google.com/notebook/8683b8cb-b335-4caa-8f0d-a5656dd27785?pli=1
+https://notebooklm.google.com/notebook/8683b8cb-b335-4caa-8f0d-a5656dd27785?pli=1 <br>
 🔗 Notion (Documentação):
-https://www.notion.so/An-lise-Inteligente-de-Logs-Documenta-o-do-Projeto-3035a848730d80a789a7d47b5b21066a?source=copy_link
+https://www.notion.so/An-lise-Inteligente-de-Logs-Documenta-o-do-Projeto-3035a848730d80a789a7d47b5b21066a?source=copy_link <br>
 🔗 LinkedIn (autor):
 https://www.linkedin.com/in/miguel-de-lima
