@@ -5,7 +5,7 @@ Uma solução de IA capaz de interpretar logs enviados pelo usuário, identifica
 
 🧭 Visão Geral
 Este projeto explora como IA + conhecimento humano podem trabalhar juntos para acelerar o trabalho de um analista de SOC sem comprometer a qualidade.
-A IA foi treinada com logs legítimos e maliciosos, documentações técnicas (MITRE ATT&CK, Sysmon), templates reais de reportes SOC e artigos técnicos sobre PowerShell e TTPs.
+A IA foi treinada com logs legítimos e maliciosos, documentações técnicas (MITRE ATT&CK, Sysmon), templates reais de reportes SOC e artigos técnicos sobre PowerShell e TTPs.<br>
 🔗 Acesse o notebook do modelo (NotebookLM):
 https://notebooklm.google.com/notebook/8683b8cb-b335-4caa-8f0d-a5656dd27785?pli=1
 <br>
